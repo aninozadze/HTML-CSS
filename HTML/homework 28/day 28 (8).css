@@ -1,0 +1,35 @@
+.div{
+    background-color: rgb(255, 255, 0);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.heading{
+    color:  rgb(5, 155, 5);
+}
+
+.heading1{
+    background-color: rgb(28, 26, 26);
+    color: white;
+}
+
+.heading2{
+    background-color: rgb(66, 112, 217) ;
+}
+
+.heading3{
+    background-color:rgb(29, 148, 8) ;
+}
+
+.heading4{
+    background-color:rgb(255, 255, 0);
+}
+
+.heading5{
+    background-color:rgb(255, 0, 0);
+}
+
+.heading6{
+    background-color:rgb(74, 124, 240);
+}
+
+

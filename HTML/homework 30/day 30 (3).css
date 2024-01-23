@@ -1,0 +1,21 @@
+body{
+    background-color: light rgb(21, 21, 207);
+    text-align: center;
+}
+
+.photo img{
+    width: 18%;
+    height: 18%;
+    
+}
+
+.text{
+    font-style: italic;
+    font-size: 120%;
+}
+
+.textt {
+    font-size: 80%;
+    color:rgb(0, 106, 255) ;
+}
+

@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(3, 8, 37);
+    text-align: center;
+}
+
+
+
+img{
+    width: 23% ;
+    height: 23%;
+}
+
+.text{
+    color: rgb(0, 60, 255);
+    font-style: italic;
+    font-size: 100%;
+}
+
+.textt{
+    color: rgb(127, 145, 161);
+    font-size: 80%;
+    letter-spacing: 1px; 
+    text-align: 2px;
+}
+
+.ETH{
+    color: rgb(0, 255, 255);
+    font-size: 90%;
+}
+
+.teextt{
+    color: rgb(127, 145, 161);
+    font-size: 80%;
+    letter-spacing: 1px; 
+    text-align: 2px;
+}

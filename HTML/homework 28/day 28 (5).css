@@ -1,0 +1,12 @@
+table {
+    width: 100%;
+    
+  }
+
+  table th, table td {
+    background-color: #00f7c1;
+    border: 1px solid 00f7c11;
+    padding: 15px;
+  }
+
+  

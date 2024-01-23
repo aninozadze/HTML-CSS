@@ -1,0 +1,37 @@
+table th, table td {
+    border: 1px solid 00f7c11;
+    padding: 15px;
+  }
+
+.heading1{
+    color: rgb(255, 255, 255);
+    background-color: rgb(128, 0, 128);
+}
+
+.heading2{
+    background-color:rgb(255, 255, 255) ;
+}
+
+.heading3{
+    background-color:rgb(255, 255, 255) ;
+}
+
+.heading4{
+    background-color:rgb(255, 255, 255);
+}
+
+.heading5{
+    background-color:rgb(255, 255, 255) ;
+}
+
+.heading6{
+    background-color:rgb(255, 255, 255) ;
+}
+
+.heading7{
+    background-color: rgb(255, 255, 255);
+}
+
+.heading8{
+    background-color:rgb(255, 255, 255);
+}

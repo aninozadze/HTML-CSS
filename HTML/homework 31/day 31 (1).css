@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(172, 194, 218);
+    text-align: center;
+}
+
+img{
+    width: 20%;
+    height: 30%;
+}
+
+.text{
+    font-style: italic;
+    font-size: 120%;
+    color: rgb(74, 74, 239);
+}
+
+.textt{
+    font-size: 90%;
+}
+
+button{
+    background-color: rgb(56, 56, 226);
+    font-size: 80%;
+}
+
+.buttonn{
+    background-color: rgb(220, 220, 236);
+    font-size: 80%;
+}

@@ -1,0 +1,32 @@
+.heading1{
+    background-color: rgb(28, 26, 26);
+    color: white;
+}
+
+.heading2{
+    background-color: rgb(66, 112, 217) ;
+}
+
+.heading3{
+    background-color:rgb(255, 191, 0) ;
+}
+
+.heading4{
+    background-color:rgb(0, 251, 255);
+}
+
+.heading5{
+    background-color:rgb(255, 0, 0);
+}
+
+.heading6{
+    background-color:rgb(255, 174, 0);
+}
+
+.heading7{
+    background-color: rgb(255, 0, 208);
+}
+
+.heading8{
+    background-color: rgb(255, 136, 0);
+}

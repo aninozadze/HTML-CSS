@@ -1,0 +1,24 @@
+.heading123{
+    color: rgb(0, 145, 255);
+}
+
+.heading12{
+    color:rgb(0, 128, 0);
+}
+
+.heading1{
+    color: rgb(255, 0, 195);
+}
+
+h1{
+    color: rgb(255, 0, 0);
+    font-size: 40px;
+    text-shadow: 15px 15px 10px red;
+}
+
+button{
+    color: rgb(85, 255, 0);
+    letter-spacing: 10px;
+    text-align: center;
+   
+}

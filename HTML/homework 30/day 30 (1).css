@@ -1,0 +1,47 @@
+body{
+    background-color:rgb(82, 254, 43);
+}
+
+.title{
+    font-size: 100%;
+    text-align: center;
+    font-style: italic;
+    margin: 40px;
+}
+
+img{
+    width: 50%;
+    height: 70%;
+    
+}
+.text{
+    margin-left: 55%;
+    margin-top: -34%;
+    font-size: 87%;
+}
+
+.Conditions{
+    text-align: center;
+    padding: 130px;
+}
+
+.heading3{
+    color: rgb(255, 0, 0);
+ 
+}
+
+.courses{
+    text-align: center;
+}
+
+.img1 {
+    width: 80%;
+    height: 60%;
+    padding: 20px;
+}
+
+.heading1{
+    margin-left: 45%;
+    margin-top: -35%;
+    font-size: 87%;
+}

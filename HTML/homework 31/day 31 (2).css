@@ -1,0 +1,41 @@
+body{
+    background-color: rgb(240, 221, 221);
+    text-align: center;
+}
+
+img{
+    width: 20% ;
+    height: 20%;
+}
+
+.style{
+    color: rgb(127, 145, 161);
+    font-size: 60%;
+    letter-spacing: 10px;
+}
+
+.text{
+    color: rgb(0, 110, 255);
+    font-style: italic;
+    font-size: 110%;
+}
+
+.texttt{
+    color:rgb(127, 145, 161) ;
+    font-size:  90%;
+    letter-spacing: 2px;
+
+}
+
+.number{
+    color: rgb(0, 128, 128);
+    margin: 2%;
+    font-size:  100%;
+}
+
+button{
+    background-color: rgb(0, 128, 128) ;
+    color: white;
+    font-size:  100%;
+    letter-spacing: 3px;
+}
