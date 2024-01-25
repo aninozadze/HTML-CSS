@@ -1,0 +1,41 @@
+body{
+    background-color: rgb(150, 0, 150);
+    text-align: center;
+}
+
+img{
+    width: 40%;
+    height: 20%;
+
+    margin-right: -350px;
+    margin-top: 10%;
+}
+
+ 
+.text{
+    margin-left: -42%;
+    margin-top: -23%;
+    font-size: 90%;
+    color: rgb(245, 245, 220);
+    text-shadow: 5px 5px 3px rgb(218, 30, 218);
+
+}
+
+.texttt{
+    margin: 3%;
+    color: rgb(180, 178, 178);
+    font-size: 87%;
+    margin-left: -40%;
+    margin-top: 32px;
+}
+.komponent{
+
+  display: flex;
+  justify-content: flex-start;
+  margin: 15px;
+  margin-left: 80px;
+}
+.komponent p{
+  padding: 12px;
+  font-size: small;
+}

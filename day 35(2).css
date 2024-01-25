@@ -1,0 +1,44 @@
+.heading{
+    width:700px;
+    height: 400px;
+    border-style: solid;
+    border-width: 2px 6px 10px 3px;
+    text-align: center;
+    margin-left: 9%;
+    color: rgb(244, 240, 240);
+    background-color: rgb(61, 174, 255);
+    margin-top: 30px;
+    margin-bottom: 2px;
+    margin-right: 50px;
+}
+
+.text{
+    font-size: 15px;
+    color: rgb(235, 237, 237);
+}
+
+.textt{
+    font-size: 16px;
+    color: rgb(247, 247, 55);
+    letter-spacing: 3px;
+    text-shadow: 5px 5px 3px rgb(28, 108, 246);
+}
+
+.texttt{
+    color: rgb(255, 255, 255);
+    font-size: 14px;
+    font-style: normal;
+}
+
+.conteiner1, .conteiner2, .conteiner3, .conteiner4{
+    color: black;
+    font-size: 8px;
+  
+}
+.conteiner{
+    display: flex;
+  justify-content: space-between;
+  margin-top: -260px;
+  padding: +100px;
+  
+}
